@@ -1,0 +1,35 @@
+{
+  "name": "ayaneo3-decky",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Fan control, joystick lighting and Magic Modules for the AYANEO 3 on stock Bazzite, in Decky.",
+  "license": "GPL-3.0-or-later",
+  "author": "sknowledge1 and contributors",
+  "homepage": "https://github.com/sknowledge1/Ayaneo3-Decky",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sknowledge1/Ayaneo3-Decky.git"
+  },
+  "frontend": [
+    "src/decky.js",
+    "src/controls.js",
+    "src/ui.js",
+    "src/fan.js",
+    "src/lighting.js",
+    "src/modules.js",
+    "src/help.js",
+    "src/index.js"
+  ],
+  "files": [
+    "main.py",
+    "py_modules/ay3_common.py",
+    "py_modules/ay3_settings.py",
+    "py_modules/ay3_fans.py",
+    "py_modules/ay3_lighting.py",
+    "py_modules/ay3_modules.py",
+    "plugin.json",
+    "package.json",
+    "dist/index.js",
+    "LICENSE"
+  ]
+}

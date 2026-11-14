@@ -1,0 +1,17 @@
+{
+  "name": "Ayaneo 3 Decky",
+  "author": "sknowledge1 and contributors",
+  "flags": [
+    "root"
+  ],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "fan",
+      "rgb",
+      "modules",
+      "ayaneo"
+    ],
+    "description": "Fan modes and curves, joystick-ring lighting and Magic Module release for the AYANEO 3 on stock Bazzite."
+  }
+}
